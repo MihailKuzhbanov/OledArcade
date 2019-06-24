@@ -1,0 +1,16 @@
+ssd1306\i2cdev.o: ..\Src\I2Cdev.c
+ssd1306\i2cdev.o: ../Inc/I2Cdev.h
+ssd1306\i2cdev.o: D:\Keil\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h
+ssd1306\i2cdev.o: .\RTE\_ssd1306\RTE_Components.h
+ssd1306\i2cdev.o: ../Drivers/CMSIS/Include/core_cm3.h
+ssd1306\i2cdev.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\stdint.h
+ssd1306\i2cdev.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+ssd1306\i2cdev.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+ssd1306\i2cdev.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+ssd1306\i2cdev.o: D:\Keil\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h
+ssd1306\i2cdev.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+ssd1306\i2cdev.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\string.h
+ssd1306\i2cdev.o: ../Inc/stm32f10x_i2c.h
+ssd1306\i2cdev.o: ../Inc/Driver_I2C.h
+ssd1306\i2cdev.o: ../Inc/Driver_Common.h
+ssd1306\i2cdev.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\stddef.h

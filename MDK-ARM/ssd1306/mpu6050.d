@@ -1,0 +1,17 @@
+ssd1306\mpu6050.o: ..\Src\MPU6050.c
+ssd1306\mpu6050.o: ../Inc/MPU6050.h
+ssd1306\mpu6050.o: ../Inc/I2Cdev.h
+ssd1306\mpu6050.o: D:\Keil\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h
+ssd1306\mpu6050.o: .\RTE\_ssd1306\RTE_Components.h
+ssd1306\mpu6050.o: ../Drivers/CMSIS/Include/core_cm3.h
+ssd1306\mpu6050.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\stdint.h
+ssd1306\mpu6050.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+ssd1306\mpu6050.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+ssd1306\mpu6050.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+ssd1306\mpu6050.o: D:\Keil\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h
+ssd1306\mpu6050.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+ssd1306\mpu6050.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\string.h
+ssd1306\mpu6050.o: ../Inc/stm32f10x_i2c.h
+ssd1306\mpu6050.o: ../Inc/Driver_I2C.h
+ssd1306\mpu6050.o: ../Inc/Driver_Common.h
+ssd1306\mpu6050.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\stddef.h
